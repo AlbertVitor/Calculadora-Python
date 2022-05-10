@@ -4,7 +4,6 @@
 <br>
 
 <img src="imgs/print-01.png">
-<br>
 <img src="imgs/print-02.png">
 <br>
 <img src="imgs/print-03.png">
