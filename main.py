@@ -1,6 +1,5 @@
 #Importando tkinter
-from re import M
-import string
+
 from tkinter import *
 from tkinter import ttk
 
